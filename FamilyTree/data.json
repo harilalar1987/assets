@@ -1,0 +1,40 @@
+{
+  "family_tree": {
+    "Ram Sharma": {
+      "dob": "1950-05-15",
+      "gender": "Male",
+      "spouse": "Mira Sharma",
+      "children": ["Arun Sharma", "Sita Sharma"]
+    },
+    "Mira Sharma": {
+      "dob": "1955-07-20",
+      "gender": "Female",
+      "spouse": "Ram Sharma",
+      "children": ["Arun Sharma", "Sita Sharma"]
+    },
+    "Arun Sharma": {
+      "dob": "1980-03-10",
+      "gender": "Male",
+      "spouse": "Nisha Sharma",
+      "children": ["Harilal Sharma"]
+    },
+    "Nisha Sharma": {
+      "dob": "1982-08-22",
+      "gender": "Female",
+      "spouse": "Arun Sharma",
+      "children": ["Harilal Sharma"]
+    },
+    "Sita Sharma": {
+      "dob": "1983-09-25",
+      "gender": "Female",
+      "spouse": null,
+      "children": []
+    },
+    "Harilal Sharma": {
+      "dob": "2005-11-12",
+      "gender": "Male",
+      "spouse": null,
+      "children": []
+    }
+  }
+}
