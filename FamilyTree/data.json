@@ -1,40 +1,109 @@
-{
-  "family_tree": {
-    "Ram Sharma": {
-      "dob": "1950-05-15",
-      "gender": "Male",
-      "spouse": "Mira Sharma",
-      "children": ["Arun Sharma", "Sita Sharma"]
-    },
-    "Mira Sharma": {
-      "dob": "1955-07-20",
-      "gender": "Female",
-      "spouse": "Ram Sharma",
-      "children": ["Arun Sharma", "Sita Sharma"]
-    },
-    "Arun Sharma": {
-      "dob": "1980-03-10",
-      "gender": "Male",
-      "spouse": "Nisha Sharma",
-      "children": ["Harilal Sharma"]
-    },
-    "Nisha Sharma": {
-      "dob": "1982-08-22",
-      "gender": "Female",
-      "spouse": "Arun Sharma",
-      "children": ["Harilal Sharma"]
-    },
-    "Sita Sharma": {
-      "dob": "1983-09-25",
-      "gender": "Female",
-      "spouse": null,
-      "children": []
-    },
-    "Harilal Sharma": {
-      "dob": "2005-11-12",
-      "gender": "Male",
-      "spouse": null,
-      "children": []
-    }
-  }
-}
+[
+  {
+    "id": "1",
+    "name": "Harilal A R",
+    "gender": "male",
+    "birthDate": "1988-04-05",
+    "bio": "Started the Family Tree in 20255.",
+    "children": ["3"],
+    "spouses": ["2"],"siblings": ["4"],"parents": ["5", "6"],
+  },
+  {
+    "id": "2",
+    "name": "Devika Haridas",
+    "gender": "female",
+    "birthDate": "1922-06-02",
+    "bio": "Married in 2017",
+    "parents": ["", ""],
+    "siblings": [""],
+    "children": ["3"],
+    "spouses": ["1"]
+  },
+  {
+    "id": "3",
+    "name": "Hridya Harilal Pillai",
+    "gender": "female",
+    "birthDate": "2021-12-27",
+    "bio": "Kid enjoying childhood",
+    "parents": ["1", "2"],
+    "siblings": [],
+    "spouses": [],
+    "children": []
+  },
+  {
+    "id": "4",
+    "name": "Harilekshmi A R",
+    "gender": "female",
+    "birthDate": "1990-02-07",
+    "bio": "Engineer @ IBS",
+    "spouses": ["5"],
+    "children": ["6"],"siblings": [1],"parents": [],
+  },
+  {
+    "id": "5",
+    "name": "Shankar N",
+    "gender": "male",
+    "birthDate": "1987-08-12",
+    "bio": "Safety Engineer & Professor",
+    "parents": [],
+    "siblings": [],
+    "spouses": ["4"],
+    "children": ["6"]
+  },
+  {
+    "id": "6",
+    "name": "Niranjana Shankar H",
+    "gender": "female",
+    "birthDate": "2021-03-24",
+    "bio": "Kid enjoying childhood",
+    "parents": ["4", "5"],
+    "siblings": [""]
+  },
+  {
+    "id": "7",
+    "name": "H Ayyappan Pillai",
+    "gender": "male",
+    "birthDate": "1963-05-04",
+    "bio": "Business",
+    "spouses": ["8"],
+    "children": ["1", "4"],"parents": [],
+    "siblings": [""]
+  },
+  {
+    "id": "8",
+    "name": "Rajeswari P S",
+    "gender": "female",
+    "birthDate": "1966-11-17",
+    "bio": "Homemaker",
+    "spouses": ["7"],
+    "children": ["1", "4"],"parents": [],
+    "siblings": [""]
+  },
+  {
+    "id": "9",
+    "name": "Haridas",
+    "gender": "male",
+    "birthDate": "",
+    "bio": "",
+    "parents": [],
+    "siblings": [],"spouses": ["10"],"children": ["2","11"],
+  },
+  {
+    "id": "10",
+    "name": "Vijayalakshmi K A",
+    "gender": "female",
+    "birthDate": "",
+    "bio": "Accountant",
+    "parents": [],
+    "siblings": [],"spouses": ["9"],"children": ["2","11"],
+  },
+  {
+    "id": "11",
+    "name": "Ananth Haridas",
+    "gender": "male",
+    "birthDate": "1997-10-20",
+    "bio": "Yoga Practiotioner & Accountant",
+    "spouses": [],
+    "children": [],"parents": ["9","10"],
+    "siblings": ["2"]
+  }]
