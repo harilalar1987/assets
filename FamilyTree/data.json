@@ -6,7 +6,7 @@
     "birthDate": "1988-04-05",
     "bio": "Started the Family Tree in 20255.",
     "children": ["3"],
-    "spouses": ["2"],"siblings": ["4"],"parents": ["5", "6"],
+    "spouses": ["2"],"siblings": ["4"],"parents": ["7","8"],
   },
   {
     "id": "2",
@@ -14,8 +14,8 @@
     "gender": "female",
     "birthDate": "1922-06-02",
     "bio": "Married in 2017",
-    "parents": ["", ""],
-    "siblings": [""],
+    "parents": ["9", "10"],
+    "siblings": ["11"],
     "children": ["3"],
     "spouses": ["1"]
   },
@@ -37,7 +37,7 @@
     "birthDate": "1990-02-07",
     "bio": "Engineer @ IBS",
     "spouses": ["5"],
-    "children": ["6"],"siblings": [1],"parents": [],
+    "children": ["6"],"siblings": [1],"parents": ["7","8"],
   },
   {
     "id": "5",
@@ -67,7 +67,7 @@
     "bio": "Business",
     "spouses": ["8"],
     "children": ["1", "4"],"parents": [],
-    "siblings": [""]
+    "siblings": []
   },
   {
     "id": "8",
@@ -77,7 +77,7 @@
     "bio": "Homemaker",
     "spouses": ["7"],
     "children": ["1", "4"],"parents": [],
-    "siblings": [""]
+    "siblings": []
   },
   {
     "id": "9",
