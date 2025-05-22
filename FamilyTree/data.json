@@ -6,7 +6,9 @@
     "birthDate": "1988-04-05",
     "bio": "Started the Family Tree in 20255.",
     "children": ["3"],
-    "spouses": ["2"],"siblings": ["4"],"parents": ["7","8"]
+    "spouses": ["2"],
+    "siblings": ["4"],
+    "parents": ["7","8"]
   },
   {
     "id": "2",
@@ -25,10 +27,7 @@
     "gender": "female",
     "birthDate": "2021-12-27",
     "bio": "Kid enjoying childhood",
-    "parents": ["1", "2"],
-    "siblings": [],
-    "spouses": [],
-    "children": []
+    "parents": ["1", "2"]
   },
   {
     "id": "4",
@@ -37,7 +36,9 @@
     "birthDate": "1990-02-07",
     "bio": "Engineer @ IBS",
     "spouses": ["5"],
-    "children": ["6"],"siblings": [1],"parents": ["7","8"]
+    "children": ["6"],
+    "siblings": ["1"],
+    "parents": ["7","8"]
   },
   {
     "id": "5",
@@ -45,8 +46,6 @@
     "gender": "male",
     "birthDate": "1987-08-12",
     "bio": "Safety Engineer & Professor",
-    "parents": [],
-    "siblings": [],
     "spouses": ["4"],
     "children": ["6"]
   },
@@ -56,8 +55,7 @@
     "gender": "female",
     "birthDate": "2021-03-24",
     "bio": "Kid enjoying childhood",
-    "parents": ["4", "5"],
-    "siblings": []
+    "parents": ["4", "5"]
   },
   {
     "id": "7",
@@ -66,8 +64,7 @@
     "birthDate": "1963-05-04",
     "bio": "Business",
     "spouses": ["8"],
-    "children": ["1", "4"],"parents": [],
-    "siblings": []
+    "children": ["1", "4"]
   },
   {
     "id": "8",
@@ -76,26 +73,23 @@
     "birthDate": "1966-11-17",
     "bio": "Homemaker",
     "spouses": ["7"],
-    "children": ["1", "4"],"parents": [],
-    "siblings": []
+    "children": ["1", "4"]
   },
   {
     "id": "9",
     "name": "Haridas",
     "gender": "male",
-    "birthDate": "1950-01-01",
     "bio": "",
-    "parents": [],
-    "siblings": [],"spouses": ["10"],"children": ["2","11"]
+    "spouses": ["10"],
+    "children": ["2","11"]
   },
   {
     "id": "10",
     "name": "Vijayalakshmi K A",
     "gender": "female",
-    "birthDate": "1960-01-01",
     "bio": "Accountant",
-    "parents": [],
-    "siblings": [],"spouses": ["9"],"children": ["2","11"]
+    "spouses": ["9"],
+    "children": ["2","11"]
   },
   {
     "id": "11",
@@ -103,7 +97,7 @@
     "gender": "male",
     "birthDate": "1997-10-20",
     "bio": "Yoga Practiotioner & Accountant",
-    "spouses": [],
-    "children": [],"parents": ["9","10"],
+    "parents": ["9","10"],
     "siblings": ["2"]
-  }]
+  }
+]
