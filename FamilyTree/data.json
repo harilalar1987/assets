@@ -57,7 +57,7 @@
     "birthDate": "2021-03-24",
     "bio": "Kid enjoying childhood",
     "parents": ["4", "5"],
-    "siblings": [""]
+    "siblings": []
   },
   {
     "id": "7",
@@ -83,7 +83,7 @@
     "id": "9",
     "name": "Haridas",
     "gender": "male",
-    "birthDate": "",
+    "birthDate": "1950-01-01",
     "bio": "",
     "parents": [],
     "siblings": [],"spouses": ["10"],"children": ["2","11"]
@@ -92,7 +92,7 @@
     "id": "10",
     "name": "Vijayalakshmi K A",
     "gender": "female",
-    "birthDate": "",
+    "birthDate": "1960-01-01",
     "bio": "Accountant",
     "parents": [],
     "siblings": [],"spouses": ["9"],"children": ["2","11"]
