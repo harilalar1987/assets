@@ -38,7 +38,7 @@
     "spouses": ["5"],
     "children": ["6"],
     "siblings": ["1"],
-    "parents": ["7","8"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Harilekshmi.jpeg"
+    "parents": ["7","8"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Harilekshmi.JPG"
   },
   {
     "id": "5",
@@ -47,7 +47,7 @@
     "birthDate": "1987-08-12",
     "bio": "Safety Engineer & Professor",
     "spouses": ["4"],
-    "children": ["6"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Shankar.jpeg"
+    "children": ["6"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Shankar.JPG"
   },
   {
     "id": "6",
@@ -55,7 +55,7 @@
     "gender": "female",
     "birthDate": "2021-03-24",
     "bio": "Kid enjoying childhood",
-    "parents": ["4", "5"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Niranjana.jpeg"
+    "parents": ["4", "5"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Niranjana.jpg"
   },
   {
     "id": "7",
@@ -64,7 +64,7 @@
     "birthDate": "1963-05-04",
     "bio": "Business",
     "spouses": ["8"],
-    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ayyappan.jpeg"
+    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ayyappan.jpg"
   },
   {
     "id": "8",
@@ -73,7 +73,7 @@
     "birthDate": "1966-11-17",
     "bio": "Homemaker",
     "spouses": ["7"],
-    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Rajeswari.jpeg"
+    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Rajeswari.jpg"
   },
   {
     "id": "9",
@@ -81,7 +81,7 @@
     "gender": "male",
     "bio": "",
     "spouses": ["10"],
-    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Haridas.jpeg"
+    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Haridas.jpg"
   },
   {
     "id": "10",
@@ -89,7 +89,7 @@
     "gender": "female",
     "bio": "Accountant",
     "spouses": ["9"],
-    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Vijayalakshmi.jpeg"
+    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Vijayalakshmi.jpg"
   },
   {
     "id": "11",
@@ -98,6 +98,6 @@
     "birthDate": "1997-10-20",
     "bio": "Yoga Practiotioner & Accountant",
     "parents": ["9","10"],
-    "siblings": ["2"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ananth.jpeg"
+    "siblings": ["2"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ananth.jpg"
   }
 ]
