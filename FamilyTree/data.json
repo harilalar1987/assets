@@ -63,7 +63,7 @@
     "gender": "male",
     "birthDate": "1963-05-04",
     "bio": "Business",
-    "spouses": ["8"],
+    "spouses": ["8"],"siblings": ["25"],"parents": ["23","24"],
     "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ayyappan.jpg"
   },
   {
@@ -72,7 +72,7 @@
     "gender": "female",
     "birthDate": "1966-11-17",
     "bio": "Homemaker",
-    "spouses": ["7"],
+    "spouses": ["7"],"siblings": ["15"],
     "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Rajeswari.jpg"
   },
   {
@@ -131,7 +131,7 @@
     "gender": "female",
     "birthDate": "1997-10-20",
     "bio": "Housewife & Snacks Business",
-    "parents": ["21","22"]
+    "parents": ["21","22"],"siblings": ["8"],
   },
   {
     "id": "16",
@@ -194,7 +194,7 @@
     "id": "25",
     "name": "Murugan",
     "gender": "male",
-    "bio": "", "spouses": ["26"]
+    "bio": "", "spouses": ["26"],"siblings": ["7"],"parents": ["23","24"]
   },
   {
     "id": "26",
