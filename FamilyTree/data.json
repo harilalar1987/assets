@@ -115,8 +115,7 @@
     "gender": "female",
     "birthDate": "2000-03-19",
     "bio": "Software Engineer working at Supermoney",
-    "parents": ["14","15"],
-    "siblings": ["12"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Sreelekshmi.jpg"
+    "parents": ["14","15"]
   },
   {
     "id": "14",
@@ -124,8 +123,7 @@
     "gender": "male",
     "birthDate": "1964-05-08",
     "bio": "Business", "spouses": ["15"],
-    "parents": ["16","17"],
-    "siblings": ["18","19","20"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Murali.jpg"
+    "parents": ["16","17"]
   },
   {
     "id": "15",
@@ -133,8 +131,7 @@
     "gender": "female",
     "birthDate": "1997-10-20",
     "bio": "Housewife & Snacks Business",
-    "parents": ["21","22"],
-    "siblings": ["8"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Remeswary.jpg"
+    "parents": ["21","22"]
   },
   {
     "id": "16",
@@ -173,42 +170,36 @@
     "id": "21",
     "name": "Padmavathi",
     "gender": "female",
-    "bio": "House wife", "spouses": ["22"],"children": ["8", "15"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Padmavathi.jpg"
+    "bio": "House wife", "spouses": ["22"],"children": ["8", "15"]
   },
   {
     "id": "22",
     "name": "Sivathanu Pillai",
     "gender": "male",
-    "bio": "Ex Police", "spouses": ["21"],"children": ["8", "15"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/SivathanuPillai.jpg"
+    "bio": "Ex Police", "spouses": ["21"],"children": ["8", "15"]
   },
   {
     "id": "23",
     "name": "Velammal",
     "gender": "female",
-    "bio": "House wife", "spouses": ["24"],"children": ["7","25"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Velammal.jpg"
+    "bio": "House wife", "spouses": ["24"],"children": ["7","25"]
   },
   {
     "id": "24",
     "name": "Hariharaputhra Pillai",
     "gender": "male",
-    "bio": "", "spouses": ["23"],"children": ["7","25"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/HariharaputhraPillai.jpg"
+    "bio": "", "spouses": ["23"],"children": ["7","25"]
   },
   {
     "id": "25",
     "name": "Murugan",
     "gender": "male",
-    "bio": "", "spouses": ["26"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Murugan.jpg"
+    "bio": "", "spouses": ["26"]
   },
   {
     "id": "26",
     "name": "Valsala",
     "gender": "male",
-    "bio": "Housewife", "spouses": ["25"],
-    "imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Valsala.jpg"
+    "bio": "Housewife", "spouses": ["25"]
   }
 ]
