@@ -5,21 +5,41 @@
     "gender": "male",
     "birthDate": "1988-04-05",
     "bio": "Started the Family Tree in 2025.",
-    "children": ["3"],
-    "spouses": ["2"],
-    "siblings": ["4"],
-    "parents": ["7","8"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Harilal.jpg"
+    "children": [
+      "3"
+    ],
+    "spouse": [
+      "2"
+    ],
+    "siblings": [
+      "4"
+    ],
+    "parents": [
+      "7",
+      "8"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Harilal.jpg"
   },
   {
     "id": "2",
     "name": "Devika Haridas",
     "gender": "female",
-    "birthDate": "1922-06-02",
+    "birthDate": "1992-06-02",
     "bio": "Married in 2017",
-    "parents": ["9", "10"],
-    "siblings": ["11"],
-    "children": ["3"],
-    "spouses": ["1"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Devu.jpeg"
+    "parents": [
+      "9",
+      "10"
+    ],
+    "siblings": [
+      "11"
+    ],
+    "children": [
+      "3"
+    ],
+    "spouse": [
+      "1"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Devu.jpeg"
   },
   {
     "id": "3",
@@ -27,7 +47,11 @@
     "gender": "female",
     "birthDate": "2021-12-27",
     "bio": "Kid enjoying childhood",
-    "parents": ["1", "2"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Hridya.jpeg"
+    "parents": [
+      "1",
+      "2"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Hridya.jpeg"
   },
   {
     "id": "4",
@@ -35,10 +59,20 @@
     "gender": "female",
     "birthDate": "1990-02-07",
     "bio": "Engineer @ IBS",
-    "spouses": ["5"],
-    "children": ["6"],
-    "siblings": ["1"],
-    "parents": ["7","8"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Harilekshmi.JPG"
+    "spouse": [
+      "5"
+    ],
+    "children": [
+      "6"
+    ],
+    "siblings": [
+      "1"
+    ],
+    "parents": [
+      "7",
+      "8"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Harilekshmi.JPG"
   },
   {
     "id": "5",
@@ -46,8 +80,13 @@
     "gender": "male",
     "birthDate": "1987-08-12",
     "bio": "Safety Engineer & Professor",
-    "spouses": ["4"],
-    "children": ["6"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Shankar.JPG"
+    "spouse": [
+      "4"
+    ],
+    "children": [
+      "6"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Shankar.JPG"
   },
   {
     "id": "6",
@@ -55,7 +94,11 @@
     "gender": "female",
     "birthDate": "2021-03-24",
     "bio": "Kid enjoying childhood",
-    "parents": ["4", "5"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Niranjana.jpg"
+    "parents": [
+      "4",
+      "5"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Niranjana.jpg"
   },
   {
     "id": "7",
@@ -63,8 +106,21 @@
     "gender": "male",
     "birthDate": "1963-05-04",
     "bio": "Business",
-    "spouses": ["8"],"siblings": ["25"],"parents": ["23","24"],
-    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ayyappan.jpg"
+    "spouse": [
+      "8"
+    ],
+    "siblings": [
+      "25"
+    ],
+    "parents": [
+      "23",
+      "24"
+    ],
+    "children": [
+      "1",
+      "4"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Ayyappan.jpg"
   },
   {
     "id": "8",
@@ -72,24 +128,45 @@
     "gender": "female",
     "birthDate": "1966-11-17",
     "bio": "Homemaker",
-    "spouses": ["7"],"siblings": ["15"],
-    "children": ["1", "4"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Rajeswari.jpg"
+    "spouse": [
+      "7"
+    ],
+    "siblings": [
+      "15"
+    ],
+    "children": [
+      "1",
+      "4"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Rajeswari.jpg"
   },
   {
     "id": "9",
     "name": "Haridas",
     "gender": "male",
     "bio": "",
-    "spouses": ["10"],
-    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Haridas.jpg"
+    "spouse": [
+      "10"
+    ],
+    "children": [
+      "2",
+      "11"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Haridas.jpg"
   },
   {
     "id": "10",
     "name": "Vijayalakshmi K A",
     "gender": "female",
     "bio": "Accountant",
-    "spouses": ["9"],
-    "children": ["2","11"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Vijayalakshmi.jpg"
+    "spouse": [
+      "9"
+    ],
+    "children": [
+      "2",
+      "11"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Vijayalakshmi.jpg"
   },
   {
     "id": "11",
@@ -97,8 +174,14 @@
     "gender": "male",
     "birthDate": "1997-10-20",
     "bio": "Yoga Practiotioner & Accountant",
-    "parents": ["9","10"],
-    "siblings": ["2"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Ananth.jpg"
+    "parents": [
+      "9",
+      "10"
+    ],
+    "siblings": [
+      "2"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Ananth.jpg"
   },
   {
     "id": "12",
@@ -106,8 +189,14 @@
     "gender": "male",
     "birthDate": "2005-04-10",
     "bio": "Pursuing Engineering",
-    "parents": ["14","15"],
-    "siblings": ["13"],"imageUrl":"https://harilalar1987.github.io/assets/FamilyTree/Sreeram.jpg"
+    "parents": [
+      "14",
+      "15"
+    ],
+    "siblings": [
+      "13"
+    ],
+    "imageUrl": "https://harilalar1987.github.io/assets/FamilyTree/Sreeram.jpg"
   },
   {
     "id": "13",
@@ -115,15 +204,24 @@
     "gender": "female",
     "birthDate": "2000-03-19",
     "bio": "Software Engineer working at Supermoney",
-    "parents": ["14","15"]
+    "parents": [
+      "14",
+      "15"
+    ]
   },
   {
     "id": "14",
     "name": "Murali R",
     "gender": "male",
     "birthDate": "1964-05-08",
-    "bio": "Business", "spouses": ["15"],
-    "parents": ["16","17"]
+    "bio": "Business",
+    "spouse": [
+      "15"
+    ],
+    "parents": [
+      "16",
+      "17"
+    ]
   },
   {
     "id": "15",
@@ -131,75 +229,153 @@
     "gender": "female",
     "birthDate": "1997-10-20",
     "bio": "Housewife & Snacks Business",
-    "parents": ["21","22"],"siblings": ["8"]
+    "parents": [
+      "21",
+      "22"
+    ],
+    "siblings": [
+      "8"
+    ]
   },
   {
     "id": "16",
     "name": "Retnasabavathi Pillai",
     "gender": "male",
-    "children": ["14", "18","19","20"]
+    "children": [
+      "14",
+      "18",
+      "19",
+      "20"
+    ]
   },
   {
     "id": "17",
     "name": "Rukmani",
     "gender": "female",
-    "children": ["14", "18","19","20"]
+    "children": [
+      "14",
+      "18",
+      "19",
+      "20"
+    ]
   },
   {
     "id": "18",
     "name": "Manoharan R",
     "gender": "male",
-    "parents": ["16","17"],
-    "siblings": ["14","19","20"]
+    "parents": [
+      "16",
+      "17"
+    ],
+    "siblings": [
+      "14",
+      "19",
+      "20"
+    ]
   },
   {
     "id": "19",
     "name": "Perumal Pillai",
     "gender": "male",
-    "parents": ["16","17"],
-    "siblings": ["18","14","20"]
+    "parents": [
+      "16",
+      "17"
+    ],
+    "siblings": [
+      "18",
+      "14",
+      "20"
+    ]
   },
   {
     "id": "20",
     "name": "Latha R",
     "gender": "female",
-    "parents": ["16","17"],
-    "siblings": ["18","19","14"]
+    "parents": [
+      "16",
+      "17"
+    ],
+    "siblings": [
+      "18",
+      "19",
+      "14"
+    ]
   },
   {
     "id": "21",
     "name": "Padmavathi",
     "gender": "female",
-    "bio": "House wife", "spouses": ["22"],"children": ["8", "15"]
+    "bio": "House wife",
+    "spouse": [
+      "22"
+    ],
+    "children": [
+      "8",
+      "15"
+    ]
   },
   {
     "id": "22",
     "name": "Sivathanu Pillai",
     "gender": "male",
-    "bio": "Ex Police", "spouses": ["21"],"children": ["8", "15"]
+    "bio": "Ex Police",
+    "spouse": [
+      "21"
+    ],
+    "children": [
+      "8",
+      "15"
+    ]
   },
   {
     "id": "23",
     "name": "Velammal",
     "gender": "female",
-    "bio": "House wife", "spouses": ["24"],"children": ["7","25"]
+    "bio": "House wife",
+    "spouse": [
+      "24"
+    ],
+    "children": [
+      "7",
+      "25"
+    ]
   },
   {
     "id": "24",
     "name": "Hariharaputhra Pillai",
     "gender": "male",
-    "bio": "", "spouses": ["23"],"children": ["7","25"]
+    "bio": "",
+    "spouse": [
+      "23"
+    ],
+    "children": [
+      "7",
+      "25"
+    ]
   },
   {
     "id": "25",
     "name": "Murugan",
     "gender": "male",
-    "bio": "", "spouses": ["26"],"siblings": ["7"],"parents": ["23","24"]
+    "bio": "",
+    "spouse": [
+      "26"
+    ],
+    "siblings": [
+      "7"
+    ],
+    "parents": [
+      "23",
+      "24"
+    ]
   },
   {
     "id": "26",
     "name": "Valsala",
-    "gender": "male",
-    "bio": "Housewife", "spouses": ["25"]
+    "gender": "female",
+    "bio": "Housewife",
+    "spouse": [
+      "25"
+    ]
   }
 ]
